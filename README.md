@@ -40,8 +40,9 @@ Getting Started
 Prerequisites
 Ensure you have the following installed:
 
-Node.js: Version X.X.X or higher.
+Node.js: Version 16.20.2 or higher.
 MongoDB: Local or cloud instance.
+MongoDB url : https://cloud.mongodb.com
 
 
 Setup Instructions
@@ -102,7 +103,8 @@ Add analytics for admins to track user behavior and app performance.
 Contributors
 Vishaal Maria Anto
 Feby Yesudasan
-Kinsmen
+Kinsman
 Rooban J
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
