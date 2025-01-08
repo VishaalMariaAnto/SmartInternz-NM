@@ -1,4 +1,4 @@
-**Grocery App**
+*Grocery App*
 
 Overview
 The Grocery App is a user-friendly platform designed to simplify grocery shopping. Customers can browse products, add items to their cart, place orders, and manage their profiles. Admins have dedicated features to manage inventory, user accounts, and order processing.
