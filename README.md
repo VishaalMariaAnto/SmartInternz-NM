@@ -59,6 +59,7 @@ Navigate to the Project Directory
 cd SmartInternz-NM
 
 *Install Dependencies:*
+
 Frontend:
 
 cd client
