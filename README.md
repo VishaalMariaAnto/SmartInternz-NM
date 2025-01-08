@@ -23,6 +23,7 @@ Secure authentication with JWT.
 Responsive design for desktop and mobile devices.
 
 *Tech Stack*
+
 Frontend
 React.js: Dynamic, component-based UI.
 React Router: Page navigation.
